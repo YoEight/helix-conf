@@ -1,4 +1,4 @@
-theme = "dark_plus"
+theme = "boo_berry"
 
 [editor]
 cursorline = true
@@ -6,7 +6,3 @@ cursorline = true
 [editor.indent-guides]
 render = true
 skip-levels = 1
-
-[editor.cursor-shape]
-insert = "bar"
-select = "underline"
